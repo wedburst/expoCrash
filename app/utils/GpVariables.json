@@ -1,0 +1,15 @@
+{
+    "Color": {
+        "redDark": "#8F0001",
+        "redLight": "#ED1C24",
+        "blue": "#1E4181",
+        "blueLight": "#4B679A",
+        "gray": "#656779",
+        "grayLight": "#DCDCDC",
+        "grayDark": "#535266",
+        "yellow": "#F7931E",
+        "green": "#39B54A",
+        "white": "#FFFFFF",
+        "whiteLight": "#EF4FFF"
+    }
+}
